@@ -10,7 +10,7 @@ const yourChatId = '1462919343';
 
 const timezone = 'America/Argentina/Buenos_Aires';
 
-const hour = 22;
+const hour = 12;
 const minute = 15;
 
 async function fetchAPIAndBuildMessage() {
